@@ -1,0 +1,49 @@
+{"favoriteMovies":
+  [
+    {
+      "movieTitle": "Ghostbusters",
+      "posterLink": "https://upload.wikimedia.org/wikipedia/en/2/2f/Ghostbusters_%281984%29_theatrical_poster.png",
+      "trailerLink": "https://www.youtube.com/watch?v=EQCCPP8aZBY"
+    },
+    {
+      "movieTitle": "Star Wars: The Last Jedi",
+      "posterLink": "https://upload.wikimedia.org/wikipedia/en/7/7f/Star_Wars_The_Last_Jedi.jpg",
+      "trailerLink": "https://www.youtube.com/watch?v=Q0CbN8sfihY"
+    },
+    {
+      "movieTitle": "Raiders of the Lost Ark",
+      "posterLink": "https://upload.wikimedia.org/wikipedia/en/4/4c/Raiders_of_the_Lost_Ark.jpg",
+      "trailerLink": "https://www.youtube.com/watch?v=XkkzKHCx154"
+    },
+    {
+      "movieTitle": "Back to the Future",
+      "posterLink": "https://upload.wikimedia.org/wikipedia/en/d/d2/Back_to_the_Future.jpg",
+      "trailerLink": "https://www.youtube.com/watch?v=qvsgGtivCgs"
+    },
+    {
+      "movieTitle": "The Dark Knight",
+      "posterLink": "https://upload.wikimedia.org/wikipedia/en/8/8a/Dark_Knight.jpg",
+      "trailerLink": "https://www.youtube.com/watch?v=EXeTwQWrcwY"
+    },
+    {
+      "movieTitle": "The Other Guys",
+      "posterLink": "https://upload.wikimedia.org/wikipedia/en/6/6b/Other_guys_poster.jpg",
+      "trailerLink": "https://www.youtube.com/watch?v=D6WOoUG1eNo"
+    },
+    {
+      "movieTitle": "Jumanji",
+      "posterLink": "https://upload.wikimedia.org/wikipedia/en/b/b6/Jumanji_poster.jpg",
+      "trailerLink": "https://www.youtube.com/watch?v=5p18zqZmeiI"
+    },
+    {
+      "movieTitle": "Young Frankenstein",
+      "posterLink": "https://upload.wikimedia.org/wikipedia/en/b/b5/Young_Frankenstein_movie_poster.jpg",
+      "trailerLink": "https://www.youtube.com/watch?v=ZL9Q_0JtMNA"
+    },
+    {
+      "movieTitle": "Jurassic Park",
+      "posterLink": "https://upload.wikimedia.org/wikipedia/en/e/e7/Jurassic_Park_poster.jpg",
+      "trailerLink": "https://www.youtube.com/watch?v=lc0UehYemQA"
+    }
+  ]
+}
