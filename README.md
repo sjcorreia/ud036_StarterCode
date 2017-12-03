@@ -15,7 +15,7 @@ The module file `fresh_tomatoes.py` has been provided by Udacity.
 
 Executing the code is as simple as typing the command 
 
-	`python entertainment_center.py` 
+	python entertainment_center.py
 
 into the terminal.
 
