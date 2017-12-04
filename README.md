@@ -1,11 +1,11 @@
 # Fresh Tomatoes Movie Trailer Website
 
 The Fresh Tomatoes Movie Trailer Website contains the movie posters of some of my favorite movies.
-If the use clicks on one of those posters, a link to the movie trailer will open on the page. 
+If the user clicks on one of those posters, a link to the movie trailer will open on the page. 
 
 ## Source code for a Movie Trailer website.
 
-The source code for this site ca be found on my [github](https://github.com/sjcorreia/ud036_StarterCode) account.
+The source code for this site can be found on my [github](https://github.com/sjcorreia/ud036_StarterCode) page.
 
 The module `media.py` contains a class `Movie` where we have created a data structure to store information about a particular film.
 
