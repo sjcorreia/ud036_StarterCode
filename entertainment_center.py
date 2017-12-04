@@ -14,7 +14,7 @@ def main():
     function. 
 
     """
-    
+
     movies_list = []
     
     with open('json/movies.json') as json_data_movies:
@@ -26,7 +26,8 @@ def main():
         for movie in data_movies["favoriteMovies"]:
             movies_list.append(media.Movie(movie["movieTitle"],
                                            movie["posterLink"],
-                                           movie["trailerLink"]))
+                                           movie["trailerLink"],
+                                           movie["yearReleased"]))
     
     fresh_tomatoes.open_movies_page(movies_list)
 

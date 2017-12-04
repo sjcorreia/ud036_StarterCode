@@ -30,6 +30,7 @@ While creating this project, it was important that it have some sort of simulate
 * The [json](https://docs.python.org/3/library/json.html) module for Python.
 * [JSON](https://www.json.org/) format.
 * The `gitignore` file was copied from [gitignore.io](https://www.gitignore.io/api/python)
+* Font Family Oswald taken from [Google Fonts](https://fonts.google.com/?selection.family=Oswald)
 
 
 ## Known Issues

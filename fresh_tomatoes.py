@@ -21,6 +21,8 @@ main_page_head = '''
         body {
             padding-top: 80px;
             font-family: 'Oswald', sans-serif;
+            background-color: #c6bcb6;
+
         }
         #trailer .modal-dialog {
             margin-top: 200px;
@@ -42,7 +44,7 @@ main_page_head = '''
             padding-top: 20px;
         }
         .movie-tile:hover {
-            background-color: #EEE;
+            background-color: #96897f;
             cursor: pointer;
         }
         .scale-media {
@@ -56,7 +58,7 @@ main_page_head = '''
             width: 100%;
             left: 0;
             top: 0;
-            background-color: white;
+            background-color: #e0e2e4;
         }
     </style>
     <script type="text/javascript" charset="utf-8">
@@ -127,6 +129,7 @@ movie_tile_content = '''
 <div class="col-md-6 col-lg-4 movie-tile text-center" data-trailer-youtube-id="{trailer_youtube_id}" data-toggle="modal" data-target="#trailer">
     <img src="{poster_image_url}" width="220" height="342">
     <h2>{movie_title}</h2>
+    <h5>{year_released}</h5>
 </div>
 '''
 
@@ -147,7 +150,8 @@ def create_movie_tiles_content(movies):
         content += movie_tile_content.format(
             movie_title=movie.title,
             poster_image_url=movie.poster_image_url,
-            trailer_youtube_id=trailer_youtube_id
+            trailer_youtube_id=trailer_youtube_id,
+            year_released=movie.year
         )
     return content
 
