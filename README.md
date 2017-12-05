@@ -36,6 +36,8 @@ While creating this project, it was important that it have some sort of simulate
 * The `gitignore` file was copied from [gitignore.io](https://www.gitignore.io/api/python)
 * Font Family Oswald taken from [Google Fonts](https://fonts.google.com/?selection.family=Oswald)
 * HMTL color pallette from [w3schools](https://www.w3schools.com/colors/colors_palettes.asp)
+* Favicon taken from [freefavicon.com](https://www.freefavicon.com/freefavicons/icons/iconinfo/movie-icon-152-174286.html)
+* How to add a favicon from [stackoverflow](https://stackoverflow.com/questions/9943771/adding-a-favicon-to-a-static-html-page)
 
 
 ## Known Issues
