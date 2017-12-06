@@ -29,6 +29,7 @@ def main():
                                            movie["trailerLink"],
                                            movie["yearReleased"]))
     
+    # create HTML site via fresh_tomatoes module
     fresh_tomatoes.open_movies_page(movies_list)
 
 
