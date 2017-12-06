@@ -7,7 +7,7 @@ If the user clicks on one of those posters, a link to the movie trailer will ope
 
 The source code for this site can be found on my [github](https://github.com/sjcorreia/ud036_StarterCode) page.
 
-The module `media.py` contains a class `Movie` where we have created a data structure to store information about a particular film.
+The module `media.py` contains a class `Movie` where we have created a data structure to store information about a particular film. The contents of this file are adapted for this project after following the Python Foundation course on Udacity.
 
 The file `entertainment_center.py` will read from the JSON file _movies.json_, which acts as a simplified database, and create a list of `Movie` objects which will be passed to the `open_movies_page` function contained in the  `fresh_tomatoes` module.
 
