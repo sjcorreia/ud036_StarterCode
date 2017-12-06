@@ -11,7 +11,7 @@ The module `media.py` contains a class `Movie` where we have created a data stru
 
 The file `entertainment_center.py` will read from the JSON file _movies.json_, which acts as a simplified database, and create a list of `Movie` objects which will be passed to the `open_movies_page` function contained in the  `fresh_tomatoes` module.
 
-The module file `fresh_tomatoes.py` has been provided by Udacity.
+The module file `fresh_tomatoes.py` has been provided by Udacity. I made a few modifications to this file in order to personailze the site a little bit.
 
 ## Running the code
 
